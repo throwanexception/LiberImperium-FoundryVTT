@@ -1,8 +1,8 @@
 {
-  "name": "dark-heresy",
-  "title": "Dark Heresy 2E",
-  "description": "Innocence proves nothing",
-  "version": "2.1.0",
+  "name": "liber-imperium",
+  "title": "Liber Imperium",
+  "description": "Rogal Dorn's Colossal Chainblade",
+  "version": "0.0.1",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
@@ -35,7 +35,6 @@
     "style/sheet/weapon-modification.css",
     "style/sheet/ammunition.css",
     "style/sheet/force-field.css",
-
     "style/sheet/actor/actor.css",
     "style/sheet/actor/acolyte.css",
     "style/sheet/actor/npc.css",
@@ -74,9 +73,9 @@
   "gridUnits": "m",
   "primaryTokenAttribute": null,
   "secondaryTokenAttribute": null,
-  "url": "https://github.com/moo-man/DarkHeresy2E-FoundryVTT",
+  "url": "https://github.com/throwanexception/LiberImperium-FoundryVTT",
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/moo-man/DarkHeresy2E-FoundryVTT/master/system.json",
-  "download": "https://github.com/moo-man/DarkHeresy2E-FoundryVTT/releases/download/2.1.0/dark-heresy.zip",
+  "manifest": "https://raw.githubusercontent.com/throwanexception/LiberImperium-FoundryVTT/master/system.json",
+  "download": "https://github.com/throwanexception/LiberImperium-FoundryVTT/releases/download/0.0.1/liber-imperium.zip",
   "license": "LICENSE.txt"
 }

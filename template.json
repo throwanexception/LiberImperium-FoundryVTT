@@ -287,6 +287,16 @@
             "specialities": {},
             "cost": 0
           },
+          "denyTheWitch`": {
+            "label": "SKILL.DENYTHEWITCH",
+            "characteristics": [
+	      "WP"
+            ],
+            "advance": -20,
+            "isSpecialist": false,
+            "specialities": {},
+            "cost": 0
+          },
           "dodge": {
             "label": "SKILL.DODGE",
             "characteristics": [
